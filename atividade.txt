@@ -1,0 +1,20 @@
+To Do List : 
+Desenvolva uma To Do List (Lista de Tarefas) em Python utilizando, obrigatoriamente, listas encadeadas (livre escolha de qual delas
+será a mais adequada). 
+Como será essa aplicação? 
+- Deve contemplar todas principais atividades de um CRUD simples, isto é: Inserir, Deleter, Remover e Alterar - uma tarefa ou várias. 
+- Implementar um pequeno menu dando a opção de escolha ao usuário e, consequentemente, viabilizando maior interação com a aplicação. 
+- Além das operações básicas também podem implementar outras funcionalidades, como por exemplo, marcar uma tarefa como feita e manter
+ela destacada na listagem (ou não). 
+Dicas: 
+- Procure modularizar a sua aplicação o máximo que conseguir, mantendo coesão e coerência do início ao fim. Não esquecendo dos quatro
+pilares da Programação Orientada a Objetos
+- Use a criatividade, destaquei pontos essenciais apenas. 
+Observação: o objetivo dessa atividade é o meu primeiro contato com a prática de vocês, isto é, não está vinculada a um conceito de
+forma direta. As observações obtidas com as entregas serão fundamentais para que possamos começar e permanecer da maneira mais alinhada
+possível, o que é muito importante nessa modalidade. 
+- O que você envia? Um zip com um código, um txt com link do Git.... 
+- Onde? Atividades Avaliativas 
+- Quando? 
+- Ponto de Controle (Entrega Preliminar): 12/09 às 23:59 
+- Entrega Final: 21/09 às 23:59
