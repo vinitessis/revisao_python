@@ -8,24 +8,24 @@ id = 0
 class Tarefa():
 
     def __init__(self, tarefaid = None, descricaoTarefa = None, estado = None):
-        self.tarefaid = self.set_tarefaid()
-        self.descricaoTarefa = self.set_descricaoTarefa()
+        self.tarefa_id = self.set_tarefa_id()
+        self.descricao_tarefa = self.set_descricao_tarefa()
         self.estado = self.set_estado()
 
-    def set_tarefaid(self):
+    def set_tarefa_id(self):
         global id
         id = id + 1
         return id
     
-    def get_tarefaid(self):
-        return self.tarefaid
+    def get_tarefa_id(self):
+        return self.tarefa_id
 
-    def set_descricaoTarefa(self):
+    def set_descricao_tarefa(self):
         descricao = input("Digite a descrição da tarefa: ").upper()
         return descricao
 
-    def get_descricaoTarefa(self):
-        return self.descricaoTarefa
+    def get_descricao_tarefa(self):
+        return self.descricao_tarefa
 
     def set_estado(self):
         estado = ('INCONCLUÍDO')
